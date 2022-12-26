@@ -1,0 +1,22 @@
+C:\Users\hildanw10\Documents\VisualBasic\Project Sistem Tata Kelola Ruangan\Project Sistem Tata Kelola Ruangan\bin\Debug\Project Sistem Tata Kelola Ruangan.exe
+C:\Users\hildanw10\Documents\VisualBasic\Project Sistem Tata Kelola Ruangan\Project Sistem Tata Kelola Ruangan\bin\Debug\Project Sistem Tata Kelola Ruangan.pdb
+C:\Users\hildanw10\Documents\VisualBasic\Project Sistem Tata Kelola Ruangan\Project Sistem Tata Kelola Ruangan\bin\Debug\Project Sistem Tata Kelola Ruangan.xml
+C:\Users\hildanw10\Documents\VisualBasic\Project Sistem Tata Kelola Ruangan\Project Sistem Tata Kelola Ruangan\obj\x86\Debug\Project_Sistem_Tata_Kelola_Ruangan.HomePage.resources
+C:\Users\hildanw10\Documents\VisualBasic\Project Sistem Tata Kelola Ruangan\Project Sistem Tata Kelola Ruangan\obj\x86\Debug\Project_Sistem_Tata_Kelola_Ruangan.Resources.resources
+C:\Users\hildanw10\Documents\VisualBasic\Project Sistem Tata Kelola Ruangan\Project Sistem Tata Kelola Ruangan\obj\x86\Debug\Project Sistem Tata Kelola Ruangan.vbproj.GenerateResource.Cache
+C:\Users\hildanw10\Documents\VisualBasic\Project Sistem Tata Kelola Ruangan\Project Sistem Tata Kelola Ruangan\obj\x86\Debug\Project Sistem Tata Kelola Ruangan.exe
+C:\Users\hildanw10\Documents\VisualBasic\Project Sistem Tata Kelola Ruangan\Project Sistem Tata Kelola Ruangan\obj\x86\Debug\Project Sistem Tata Kelola Ruangan.xml
+C:\Users\hildanw10\Documents\VisualBasic\Project Sistem Tata Kelola Ruangan\Project Sistem Tata Kelola Ruangan\obj\x86\Debug\Project Sistem Tata Kelola Ruangan.pdb
+C:\Users\hildanw10\Documents\VisualBasic\Project Sistem Tata Kelola Ruangan\Project Sistem Tata Kelola Ruangan\obj\x86\Debug\Project_Sistem_Tata_Kelola_Ruangan.AdminDashboard.resources
+C:\Users\hildanw10\Documents\VisualBasic\Project Sistem Tata Kelola Ruangan\Project Sistem Tata Kelola Ruangan\obj\x86\Debug\Project_Sistem_Tata_Kelola_Ruangan.CrudUser.resources
+C:\Users\hildanw10\Documents\VisualBasic\Project Sistem Tata Kelola Ruangan\Project Sistem Tata Kelola Ruangan\obj\x86\Debug\Project_Sistem_Tata_Kelola_Ruangan.Login.resources
+C:\Users\hildanw10\Documents\VisualBasic\Project Sistem Tata Kelola Ruangan\Project Sistem Tata Kelola Ruangan\obj\x86\Debug\Project Sistem Tata Kelola Ruangan.vbprojResolveAssemblyReference.cache
+C:\Users\hildanw10\Documents\VisualBasic\Project Sistem Tata Kelola Ruangan\Project Sistem Tata Kelola Ruangan\obj\x86\Debug\Project_Sistem_Tata_Kelola_Ruangan.frmuser.resources
+C:\Users\hildanw10\Documents\VisualBasic\Project Sistem Tata Kelola Ruangan\Project Sistem Tata Kelola Ruangan\obj\x86\Debug\Project_Sistem_Tata_Kelola_Ruangan.CrudRoom.resources
+C:\Users\hildanw10\Documents\VisualBasic\Project Sistem Tata Kelola Ruangan\Project Sistem Tata Kelola Ruangan\obj\x86\Debug\Project_Sistem_Tata_Kelola_Ruangan.CrudKetersediaan.resources
+C:\Users\hildanw10\Documents\VisualBasic\Project Sistem Tata Kelola Ruangan\Project Sistem Tata Kelola Ruangan\obj\x86\Debug\Project_Sistem_Tata_Kelola_Ruangan.TentangAplikasi.resources
+C:\Users\hildanw10\Documents\VisualBasic\Project Sistem Tata Kelola Ruangan\Project Sistem Tata Kelola Ruangan\obj\x86\Debug\Project_Sistem_Tata_Kelola_Ruangan.CrudInventaris.resources
+C:\Users\hildanw10\Documents\VisualBasic\Project Sistem Tata Kelola Ruangan\Project Sistem Tata Kelola Ruangan\bin\Debug\Project Sistem Tata Kelola Ruangan.exe.manifest
+C:\Users\hildanw10\Documents\VisualBasic\Project Sistem Tata Kelola Ruangan\Project Sistem Tata Kelola Ruangan\bin\Debug\Project Sistem Tata Kelola Ruangan.application
+C:\Users\hildanw10\Documents\VisualBasic\Project Sistem Tata Kelola Ruangan\Project Sistem Tata Kelola Ruangan\obj\x86\Debug\Project Sistem Tata Kelola Ruangan.exe.manifest
+C:\Users\hildanw10\Documents\VisualBasic\Project Sistem Tata Kelola Ruangan\Project Sistem Tata Kelola Ruangan\obj\x86\Debug\Project Sistem Tata Kelola Ruangan.application
