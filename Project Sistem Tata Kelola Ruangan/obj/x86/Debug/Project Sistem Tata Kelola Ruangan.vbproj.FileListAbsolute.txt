@@ -20,3 +20,31 @@ C:\Users\hildanw10\Documents\VisualBasic\Project Sistem Tata Kelola Ruangan\Proj
 C:\Users\hildanw10\Documents\VisualBasic\Project Sistem Tata Kelola Ruangan\Project Sistem Tata Kelola Ruangan\bin\Debug\Project Sistem Tata Kelola Ruangan.application
 C:\Users\hildanw10\Documents\VisualBasic\Project Sistem Tata Kelola Ruangan\Project Sistem Tata Kelola Ruangan\obj\x86\Debug\Project Sistem Tata Kelola Ruangan.exe.manifest
 C:\Users\hildanw10\Documents\VisualBasic\Project Sistem Tata Kelola Ruangan\Project Sistem Tata Kelola Ruangan\obj\x86\Debug\Project Sistem Tata Kelola Ruangan.application
+C:\Users\Admin\Documents\Develop\sitakeru\Project Sistem Tata Kelola Ruangan\obj\x86\Debug\Project Sistem Tata Kelola Ruangan.vbproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Develop\sitakeru\Project Sistem Tata Kelola Ruangan\obj\x86\Debug\Project Sistem Tata Kelola Ruangan.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\Develop\sitakeru\Project Sistem Tata Kelola Ruangan\obj\x86\Debug\Project_Sistem_Tata_Kelola_Ruangan.AdminDashboard.resources
+C:\Users\Admin\Documents\Develop\sitakeru\Project Sistem Tata Kelola Ruangan\obj\x86\Debug\Project_Sistem_Tata_Kelola_Ruangan.CrudInventaris.resources
+C:\Users\Admin\Documents\Develop\sitakeru\Project Sistem Tata Kelola Ruangan\obj\x86\Debug\Project_Sistem_Tata_Kelola_Ruangan.CrudKetersediaan.resources
+C:\Users\Admin\Documents\Develop\sitakeru\Project Sistem Tata Kelola Ruangan\obj\x86\Debug\Project_Sistem_Tata_Kelola_Ruangan.CrudRoom.resources
+C:\Users\Admin\Documents\Develop\sitakeru\Project Sistem Tata Kelola Ruangan\obj\x86\Debug\Project_Sistem_Tata_Kelola_Ruangan.CrudUser.resources
+C:\Users\Admin\Documents\Develop\sitakeru\Project Sistem Tata Kelola Ruangan\obj\x86\Debug\Project_Sistem_Tata_Kelola_Ruangan.frmuser.resources
+C:\Users\Admin\Documents\Develop\sitakeru\Project Sistem Tata Kelola Ruangan\obj\x86\Debug\Project_Sistem_Tata_Kelola_Ruangan.HomePage.resources
+C:\Users\Admin\Documents\Develop\sitakeru\Project Sistem Tata Kelola Ruangan\obj\x86\Debug\Project_Sistem_Tata_Kelola_Ruangan.Login.resources
+C:\Users\Admin\Documents\Develop\sitakeru\Project Sistem Tata Kelola Ruangan\obj\x86\Debug\Project_Sistem_Tata_Kelola_Ruangan.Resources.resources
+C:\Users\Admin\Documents\Develop\sitakeru\Project Sistem Tata Kelola Ruangan\obj\x86\Debug\Project_Sistem_Tata_Kelola_Ruangan.TentangAplikasi.resources
+C:\Users\Admin\Documents\Develop\sitakeru\Project Sistem Tata Kelola Ruangan\obj\x86\Debug\Project Sistem Tata Kelola Ruangan.vbproj.GenerateResource.cache
+C:\Users\Admin\Documents\Develop\sitakeru\Project Sistem Tata Kelola Ruangan\obj\x86\Debug\Project Sistem Tata Kelola Ruangan.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Develop\sitakeru\Project Sistem Tata Kelola Ruangan\obj\x86\Debug\Project Sistem Tata Kelola Ruangan.exe
+C:\Users\Admin\Documents\Develop\sitakeru\Project Sistem Tata Kelola Ruangan\obj\x86\Debug\Project Sistem Tata Kelola Ruangan.xml
+C:\Users\Admin\Documents\Develop\sitakeru\Project Sistem Tata Kelola Ruangan\obj\x86\Debug\Project Sistem Tata Kelola Ruangan.pdb
+C:\Users\Admin\Documents\Develop\sitakeru\Project Sistem Tata Kelola Ruangan\bin\Debug\Project Sistem Tata Kelola Ruangan.exe.config
+C:\Users\Admin\Documents\Develop\sitakeru\Project Sistem Tata Kelola Ruangan\bin\Debug\Project Sistem Tata Kelola Ruangan.exe.manifest
+C:\Users\Admin\Documents\Develop\sitakeru\Project Sistem Tata Kelola Ruangan\bin\Debug\Project Sistem Tata Kelola Ruangan.application
+C:\Users\Admin\Documents\Develop\sitakeru\Project Sistem Tata Kelola Ruangan\bin\Debug\Project Sistem Tata Kelola Ruangan.exe
+C:\Users\Admin\Documents\Develop\sitakeru\Project Sistem Tata Kelola Ruangan\bin\Debug\Project Sistem Tata Kelola Ruangan.pdb
+C:\Users\Admin\Documents\Develop\sitakeru\Project Sistem Tata Kelola Ruangan\bin\Debug\Project Sistem Tata Kelola Ruangan.xml
+C:\Users\Admin\Documents\Develop\sitakeru\Project Sistem Tata Kelola Ruangan\bin\Debug\MySql.Data.dll
+C:\Users\Admin\Documents\Develop\sitakeru\Project Sistem Tata Kelola Ruangan\bin\Debug\MySql.Data.xml
+C:\Users\Admin\Documents\Develop\sitakeru\Project Sistem Tata Kelola Ruangan\obj\x86\Debug\Project Sistem Tata Kelola Ruangan.exe.manifest
+C:\Users\Admin\Documents\Develop\sitakeru\Project Sistem Tata Kelola Ruangan\obj\x86\Debug\Project Sistem Tata Kelola Ruangan.application
+C:\Users\Admin\Documents\Develop\sitakeru\Project Sistem Tata Kelola Ruangan\obj\x86\Debug\Project Sistem Tata Kelola Ruangan.vbproj.CopyComplete
