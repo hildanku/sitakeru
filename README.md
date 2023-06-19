@@ -1,5 +1,5 @@
 ## SITAKERU
-SITAKERU adalah singkatan dari Sistem Tata Kelola Ruangan. SITAKERU merupakan hasil dari project UAS, saya mengambil studi kasus ini karena di kampus X pengelolaan ruangan masih manual, karena alasan itu saya terinspirasi untuk membuat Sistem Kelola Ruangan
+SITAKERU adalah singkatan dari Sistem Tata Kelola Ruangan. SITAKERU merupakan hasil dari project UAS, saya mengambil studi kasus ini karena di kampus X pengelolaan ruangan masih dengan cara Konvensional, karena alasan itu saya terinspirasi untuk membuat Sistem Kelola Ruangan
 ### Fitur
 1. CRUD Pengguna
 2. CRUD Ruangan
